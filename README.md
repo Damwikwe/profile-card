@@ -17,8 +17,8 @@ A simple, responsive profile card built with HTML and CSS.
 
 ## Demo
 
-Live demo: [https://your-username.github.io/profile-card](https://your-username.github.io/profile-card)
+Live demo: https://damwikwe.github.io/profile-card/
 
 ## Author
 
-Made with 💻 by [Your Name](https://github.com/your-username)
+Made with 💻 by David Kwesiga (https://damwikwe.github.io/profile-card/)
